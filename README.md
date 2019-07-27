@@ -12,4 +12,5 @@ The detectives looked at the answers carefully and deduced that there was an inc
 Your challenge for today is, given a sequence of answers to the question 'how many of the others had you met before tonight?', apply the Havel-Hakimi algorithm to determine whether or not it's possible that everyone was telling the truth."
 
 SecondTry.java is the working code.
-P.S: I thought Hakimi was Halmiki. 
+
+P.S: I thought Hakimi was Halmiki. Yeah. 
