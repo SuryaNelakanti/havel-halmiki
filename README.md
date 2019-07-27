@@ -10,3 +10,6 @@ Other than the detectives, there were 10 people present. They asked the first pe
 5 3 0 2 6 2 0 7 2 5
 The detectives looked at the answers carefully and deduced that there was an inconsistency, and that somebody must be lying. (For the purpose of this challenge, assume that nobody makes mistakes or forgets, and if X has met Y, that means Y has also met X.)
 Your challenge for today is, given a sequence of answers to the question 'how many of the others had you met before tonight?', apply the Havel-Hakimi algorithm to determine whether or not it's possible that everyone was telling the truth."
+
+SecondTry.java is the working code.
+P.S: I thought Hakimi was Halmiki. 
